@@ -13,7 +13,7 @@ body {
   padding: 2rem;
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(to right bottom, #cffafe, #d45eff);
+  background-image: linear-gradient(to right bottom, #cffafe, #f8afaf);
   display: flex;
   flex-direction: column;
 }
